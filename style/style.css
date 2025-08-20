@@ -23,7 +23,7 @@ body {
 }
 
 :root {
-  --var-color-primary: #00aeff;
+  --var-color-primary:rgb(0, 174, 255);
   --var-color-acsen: #47c5ff;
   --var-color-secondary: #ffffff;
 }
@@ -33,7 +33,7 @@ body {
 } */
 /* css warna */
 .bg-white {
-  background-color: white;
+  background-color: rgb(255, 255, 255);
 }
 .bg-white-tr {
   background-color: rgb(255, 255, 255);
